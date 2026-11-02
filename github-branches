@@ -1,0 +1,4 @@
+PS C:\Users\rico_\mcino-Introduction-to-Git-and-GitHub> git branch -vv
+  bug-fix-revert ad23d04 [origin/bug-fix-revert] Revert updated README.md with original year
+  bug-fix-typo   4330ae4 [origin/bug-fix-typo] Bug fix typo branch created README.md year updated
+* main           0c66314 [origin/main] curl command bug-fix-revert
